@@ -1,1 +1,16 @@
 /* Your Styling */
+.container{
+	width: 50%: margin 0 auto;	
+}
+
+h1,h2 {font-family: 'Antic', sans-serif; text-transform: uppercase;}
+
+font-family: 'Antic', sans-serif;
+p, li{font-family: 'Antic', sans-serif;}
+
+.dropcap {
+	font-size: 5em;
+	background: orange;
+	color: white;
+	padding: .5em;
+	margin: .25em;}
